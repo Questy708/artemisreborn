@@ -1,0 +1,6 @@
+{
+  "name": "University of Artemis",
+  "description": "A revolutionary system of global micro-colleges and decentralized academic hubs re-engineering humanity's approach to learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
